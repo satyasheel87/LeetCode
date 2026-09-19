@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satyasheel87/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/satyasheel87/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyasheel87/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/satyasheel87/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/satyasheel87/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/satyasheel87/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyasheel87/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/satyasheel87/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyasheel87/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/satyasheel87/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/satyasheel87/LeetCode/tree/master/0058-length-of-last-word) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/satyasheel87/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

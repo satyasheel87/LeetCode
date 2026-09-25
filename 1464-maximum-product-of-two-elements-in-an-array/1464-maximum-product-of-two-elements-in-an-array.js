@@ -15,3 +15,4 @@ var maxProduct = function (nums) {
     }
     return (max1 - 1) * (max2 - 1);
 };
+

@@ -2,6 +2,7 @@
  * @param {string} s
  * @return {number}
  */
+
 var lengthOfLastWord = function (s) {
     s = s.trim()
     let count = 0
@@ -13,3 +14,4 @@ var lengthOfLastWord = function (s) {
     }
     return count
 };
+

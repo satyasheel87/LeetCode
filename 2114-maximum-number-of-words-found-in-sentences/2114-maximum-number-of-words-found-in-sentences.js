@@ -13,9 +13,9 @@ var mostWordsFound = function (sentences) {
                 spaceCount++
             }
         }
-        let totalWord = spaceCount + 1
-        if (totalWord > maxWord) {
-            maxWord = totalWord
+        let totalCount = spaceCount + 1
+        if (totalCount > maxWord) {
+            maxWord = totalCount
         }
     }
     return maxWord

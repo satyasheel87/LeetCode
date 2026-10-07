@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyasheel87/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/satyasheel87/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/satyasheel87/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/satyasheel87/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/satyasheel87/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyasheel87/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/satyasheel87/LeetCode/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/satyasheel87/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/satyasheel87/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satyasheel87/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/satyasheel87/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyasheel87/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyasheel87/LeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/satyasheel87/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/satyasheel87/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/satyasheel87/LeetCode/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/satyasheel87/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |

@@ -12,3 +12,4 @@ var numberOfEmployeesWhoMetTarget = function (hours, target) {
     }
     return count
 };
+

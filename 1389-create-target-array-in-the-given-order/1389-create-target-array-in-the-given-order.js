@@ -10,3 +10,5 @@ var createTargetArray = function (nums, index) {
     }
     return target
 };
+
+

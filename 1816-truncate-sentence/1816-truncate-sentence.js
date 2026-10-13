@@ -14,3 +14,4 @@ var truncateSentence = function (s, k) {
     }
     return ans
 };
+

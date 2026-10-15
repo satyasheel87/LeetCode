@@ -12,3 +12,5 @@ var restoreString = function (s, indices) {
 
     return ans.join("")
 };
+
+

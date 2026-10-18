@@ -4,6 +4,7 @@
  */
 var sortSentence = function (s) {
     let arr = s.split(" ")
+    
     for (let i = 0; i < arr.length; i++) {
         for (let j = 0; j < arr.length - 1 - i; j++) {
             let num1 = Number(arr[j].slice(-1))

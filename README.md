@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/satyasheel87/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyasheel87/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyasheel87/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/satyasheel87/LeetCode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/satyasheel87/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/satyasheel87/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyasheel87/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyasheel87/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/satyasheel87/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->

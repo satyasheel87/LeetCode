@@ -14,3 +14,4 @@ var countPairs = function (nums, target) {
     }
     return count
 };
+

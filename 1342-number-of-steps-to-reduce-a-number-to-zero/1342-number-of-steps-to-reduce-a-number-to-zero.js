@@ -15,3 +15,5 @@ var numberOfSteps = function (num) {
     }
     return count
 };
+
+

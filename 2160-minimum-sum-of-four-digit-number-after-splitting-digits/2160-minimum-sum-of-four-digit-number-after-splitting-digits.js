@@ -3,6 +3,7 @@
  * @return {number}
  */
 var minimumSum = function (num) {
+    
     let digits = num
         .toString()
         .split("")
@@ -14,4 +15,3 @@ var minimumSum = function (num) {
     let ans = Number(num1 + num2);
     return ans;
 };
-

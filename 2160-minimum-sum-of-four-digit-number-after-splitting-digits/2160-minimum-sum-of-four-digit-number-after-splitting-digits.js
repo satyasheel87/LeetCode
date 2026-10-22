@@ -14,3 +14,4 @@ var minimumSum = function (num) {
     let ans = Number(num1 + num2);
     return ans;
 };
+

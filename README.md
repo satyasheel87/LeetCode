@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/satyasheel87/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyasheel87/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyasheel87/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/satyasheel87/LeetCode/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/satyasheel87/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyasheel87/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/satyasheel87/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyasheel87/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyasheel87/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/satyasheel87/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/satyasheel87/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyasheel87/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/satyasheel87/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/satyasheel87/LeetCode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyasheel87/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/satyasheel87/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyasheel87/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyasheel87/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/satyasheel87/LeetCode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/satyasheel87/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
 |  |

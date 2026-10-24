@@ -13,5 +13,6 @@ var shuffle = function (nums, n) {
         result[j] = nums[i + n]
         j++
     }
+
     return result
 };

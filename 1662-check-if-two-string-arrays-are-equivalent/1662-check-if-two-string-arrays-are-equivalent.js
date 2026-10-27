@@ -6,6 +6,7 @@
 var arrayStringsAreEqual = function (word1, word2) {
     let ans1 = ""
     let ans2 = ""
+
     for (let i = 0; i < word1.length; i++) {
         ans1 += word1[i]
     }
@@ -15,3 +16,4 @@ var arrayStringsAreEqual = function (word1, word2) {
 
     return ans1 === ans2
 };
+

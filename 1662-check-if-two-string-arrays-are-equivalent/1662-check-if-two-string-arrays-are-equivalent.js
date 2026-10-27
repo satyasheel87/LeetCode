@@ -12,9 +12,6 @@ var arrayStringsAreEqual = function (word1, word2) {
     for (let j = 0; j < word2.length; j++) {
         ans2 += word2[j]
     }
-    if (ans1 === ans2) {
-        return true
-    } else {
-        return false
-    }
+
+    return ans1 === ans2
 };

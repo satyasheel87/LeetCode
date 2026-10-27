@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/satyasheel87/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/satyasheel87/LeetCode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/satyasheel87/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyasheel87/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/satyasheel87/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/satyasheel87/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/satyasheel87/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/satyasheel87/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/satyasheel87/LeetCode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/satyasheel87/LeetCode/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyasheel87/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/satyasheel87/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |

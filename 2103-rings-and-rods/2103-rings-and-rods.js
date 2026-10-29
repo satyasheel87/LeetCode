@@ -22,3 +22,4 @@ var countPoints = function (rings) {
 
     return count;
 };
+

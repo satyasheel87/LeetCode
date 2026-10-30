@@ -12,7 +12,6 @@ var minMovesToSeat = function (seats, students) {
     for (let i = 0; i < seats.length; i++) {
         count += Math.abs(students[i] - seats[i]);
     }
-
+    
     return count;
-};
-
+}; 

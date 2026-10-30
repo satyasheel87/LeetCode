@@ -15,3 +15,4 @@ var minMovesToSeat = function (seats, students) {
 
     return count;
 };
+

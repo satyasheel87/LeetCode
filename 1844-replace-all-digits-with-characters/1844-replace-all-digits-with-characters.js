@@ -4,6 +4,7 @@
  */
 var replaceDigits = function (s) {
     let ans = ''
+
     for (let i = 0; i < s.length; i++) {
 
         if (isNaN(s[i])) {
@@ -16,3 +17,4 @@ var replaceDigits = function (s) {
 
     return ans
 };
+

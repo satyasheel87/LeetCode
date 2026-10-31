@@ -10,7 +10,6 @@ var replaceDigits = function (s) {
             ans += s[i]
         } else {
             let charCode = s.charCodeAt(i - 1)
-            console.log(Number(s[i]))
             ans += String.fromCharCode(charCode + Number(s[i]))
         }
     }

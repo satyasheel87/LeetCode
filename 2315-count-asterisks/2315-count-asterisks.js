@@ -7,12 +7,16 @@ var countAsterisks = function (s) {
     let inside = false
 
     for (let i = 0; i < s.length; i++) {
+
         if (s[i] === '|') {
             inside = !inside
         }
+
         if (s[i] === '*' && inside === false) {
             count++
         }
+        
     }
+
     return count
 };

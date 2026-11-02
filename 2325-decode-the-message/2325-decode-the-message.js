@@ -4,9 +4,9 @@
  * @return {string}
  */
 var decodeMessage = function (key, message) {
+    let ans = "";
     let mapping = {};
     let counter = 0;
-    let ans = "";
 
     for (let i = 0; i < key.length; i++) {
         if (key[i] !== " " && !mapping[key[i]]) {
@@ -25,3 +25,4 @@ var decodeMessage = function (key, message) {
 
     return ans;
 };
+

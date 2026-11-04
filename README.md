@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyasheel87/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/satyasheel87/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyasheel87/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/satyasheel87/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/satyasheel87/LeetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyasheel87/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/satyasheel87/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/satyasheel87/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/satyasheel87/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2103-rings-and-rods](https://github.com/satyasheel87/LeetCode/tree/master/2103-rings-and-rods) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/satyasheel87/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/satyasheel87/LeetCode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/satyasheel87/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers

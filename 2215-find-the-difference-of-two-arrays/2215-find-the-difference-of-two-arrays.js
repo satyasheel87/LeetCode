@@ -21,3 +21,4 @@ var findDifference = function (nums1, nums2) {
 
     return [arr1, arr2];
 };
+

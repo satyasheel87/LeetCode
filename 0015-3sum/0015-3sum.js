@@ -3,7 +3,6 @@
  * @return {number[][]}
  */
 var threeSum = function (nums) {
-
     nums.sort((a, b) => a - b);
     let ans = [];
 
@@ -35,5 +34,6 @@ var threeSum = function (nums) {
             }
         }
     }
+
     return ans;
 };

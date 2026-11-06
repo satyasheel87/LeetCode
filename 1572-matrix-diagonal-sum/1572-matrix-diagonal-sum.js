@@ -3,6 +3,7 @@
  * @return {number}
  */
 var diagonalSum = function (mat) {
+
     let sum = 0
     let n = mat.length
 
@@ -16,4 +17,5 @@ var diagonalSum = function (mat) {
     }
 
     return sum
+    
 };

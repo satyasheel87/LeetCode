@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyasheel87/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/satyasheel87/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/satyasheel87/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/satyasheel87/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/satyasheel87/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyasheel87/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/satyasheel87/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyasheel87/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/satyasheel87/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/satyasheel87/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/satyasheel87/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyasheel87/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyasheel87/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/satyasheel87/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyasheel87/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyasheel87/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/satyasheel87/LeetCode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |

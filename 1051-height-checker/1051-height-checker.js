@@ -4,9 +4,10 @@
  */
 var heightChecker = function (heights) {
     let count = 0
+
     let expected = [...heights]
     let n = expected.length
-    
+
     for (let i = 0; i < n - 1; i++) {
         for (let j = 0; j < n - 1 - i; j++) {
             if (expected[j] > expected[j + 1]) {
@@ -21,5 +22,6 @@ var heightChecker = function (heights) {
             count++
         }
     }
+    
     return count
 };

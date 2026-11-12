@@ -11,9 +11,11 @@ var maximizeSum = function (nums, k) {
             max = nums[i]
         }
     }
+    
     for (let i = 0; i < k; i++) {
         sum += max
         max++
     }
+
     return sum
 };

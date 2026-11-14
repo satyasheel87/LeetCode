@@ -5,6 +5,7 @@
 var maximumNumberOfStringPairs = function (words) {
     let count = 0
     let set = new Set()
+    
     for (let i = 0; i < words.length; i++) {
         let reverse = words[i].split('').reverse().join('')
 

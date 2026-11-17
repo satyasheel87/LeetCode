@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/satyasheel87/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/satyasheel87/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyasheel87/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/satyasheel87/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/satyasheel87/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyasheel87/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/satyasheel87/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyasheel87/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/satyasheel87/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/satyasheel87/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/satyasheel87/LeetCode/tree/master/2103-rings-and-rods) |

@@ -11,6 +11,10 @@ var numOfStrings = function (patterns, word) {
             count++
         }
     }
-    
+
     return count
 };
+
+
+
+

@@ -34,3 +34,8 @@ var countSymmetricIntegers = function (low, high) {
     }
     return count
 };
+
+
+
+
+

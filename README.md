@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyasheel87/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/satyasheel87/LeetCode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/satyasheel87/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/satyasheel87/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
 | ------- |

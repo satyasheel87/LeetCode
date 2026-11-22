@@ -3,9 +3,11 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var sortColors = function (nums) {
+    
     let i = 0
     let j = 0
     let k = nums.length - 1
+
     while (i <= k) {
         if (nums[i] === 0) {
             let temp = nums[i]

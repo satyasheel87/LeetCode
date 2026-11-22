@@ -3,7 +3,6 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var sortColors = function (nums) {
-    
     let i = 0
     let j = 0
     let k = nums.length - 1
@@ -24,5 +23,12 @@ var sortColors = function (nums) {
             i++
         }
     }
+
     return nums
 };
+
+
+
+
+
+

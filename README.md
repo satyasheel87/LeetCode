@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/satyasheel87/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/satyasheel87/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/satyasheel87/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/satyasheel87/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyasheel87/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/satyasheel87/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyasheel87/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satyasheel87/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyasheel87/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satyasheel87/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/satyasheel87/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyasheel87/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satyasheel87/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/satyasheel87/LeetCode/tree/master/0189-rotate-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satyasheel87/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/satyasheel87/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyasheel87/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/satyasheel87/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyasheel87/LeetCode/tree/master/0217-contains-duplicate) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/satyasheel87/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/satyasheel87/LeetCode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/satyasheel87/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Greedy
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/satyasheel87/LeetCode/tree/master/2843-count-symmetric-integers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyasheel87/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

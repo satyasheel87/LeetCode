@@ -23,6 +23,14 @@ var trap = function (height) {
     for (let i = 0; i < height.length; i++) {
         ans += Math.min(left[i], right[i]) - height[i]
     }
-    
+
     return ans
 };
+
+
+
+
+
+
+
+

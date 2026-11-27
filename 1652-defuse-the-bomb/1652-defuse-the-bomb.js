@@ -8,7 +8,7 @@ var decrypt = function (code, k) {
 
     for (let i = 0; i < code.length; i++) {
         let sum = 0
-        
+
         if (k > 0) {
             for (let j = 1; j <= k; j++) {
                 let nextIndex = (i + j) % code.length
@@ -32,3 +32,11 @@ var decrypt = function (code, k) {
 
     return ans
 };
+
+
+
+
+
+
+
+

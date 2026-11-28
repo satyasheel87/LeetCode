@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satyasheel87/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/satyasheel87/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyasheel87/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyasheel87/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satyasheel87/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satyasheel87/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/satyasheel87/LeetCode/tree/master/0283-move-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satyasheel87/LeetCode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/satyasheel87/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/satyasheel87/LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/satyasheel87/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyasheel87/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/satyasheel87/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/satyasheel87/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/satyasheel87/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/satyasheel87/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/satyasheel87/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/satyasheel87/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/satyasheel87/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/satyasheel87/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |

@@ -16,8 +16,15 @@ var minSubArrayLen = function (target, nums) {
             sum -= nums[left]
             left++
         }
-        
+
     }
 
     return minLength === Infinity ? 0 : minLength;
 };
+
+
+
+
+
+
+
